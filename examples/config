@@ -2,3 +2,4 @@ db_host=localhost
 user_name=application
 db_name=app
 db_extra_host=192.168.0.44
+login_hash = {{ env.login }}
