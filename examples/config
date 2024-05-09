@@ -1,0 +1,4 @@
+db_host=localhost
+user_name=application
+db_name=app
+
